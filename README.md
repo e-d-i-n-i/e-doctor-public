@@ -36,7 +36,7 @@ E-Doctor is an AI-powered expert system designed to assist healthcare profession
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/e-d-i-n-i/e-doctor.git
+   git clone https://github.com/e-d-i-n-i/e-doctor-public.git
    cd e-doctor
    ```
 
